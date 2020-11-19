@@ -7,9 +7,9 @@
 -  Developer & Fanboy
 - 🧠 Researcher
 - ✍️ Author of [Deep Learning with Swift for TensorFlow](https://bit.ly/38WtkTl) 📖 Book
-- 🎵 EMINƎM
 - 🔨 Building [GraDirac](https://github.com/gradirac)
-- 📫 You can reach me at my [email](mailto:rahulbhalley@icloud.com) for any queries regarding my works.
+- - EMINƎM
+- 📫 You can [contact](mailto:rahulbhalley@icloud.com) me for projects and any queries regarding my works.
 
 <!--
 **rahulbhalley/rahulbhalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

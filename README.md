@@ -1,15 +1,16 @@
-## Hey! 👋 I'm Rahul Bhalley (aka `</code_boy>`).
+## Hey! 👋 It's `</code_boy>`.
 
 ![](https://komarev.com/ghpvc/?username=rahulbhalley&color=blueviolet)
 
 ### About Me 👨🏻‍💻
 
 -  Developer & Fanboy
-- 🧠 Researcher
+- 🧠 Researcher in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
 - ✍️ Author of [Deep Learning with Swift for TensorFlow](https://bit.ly/38WtkTl) 📖 Book
-- 🔨 Building [GraDirac](https://github.com/gradirac)
-- - EMINƎM
-- 📫 You can [contact](mailto:rahulbhalley@icloud.com) me for projects and any queries regarding my works.
+- 👨🏻‍💻 𝛁Swift
+- 🔨 [GraDirac](https://github.com/gradirac)
+- 🎙 EMINƎM
+- 📫 [Contact](mailto:rahulbhalley@icloud.com) for _any_ machine learning projects or queries regarding my works.
 
 <!--
 **rahulbhalley/rahulbhalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## Hey! 👋 It's `</code_boy>`.
+![Rahul's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rahulbhalley&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=rahulbhalley&color=blueviolet)
 

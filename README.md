@@ -6,7 +6,7 @@
 
 -  Developer & Fanboy
 - 🧠 Researcher in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
-- ✍️ Author of [Deep Learning with Swift for TensorFlow](https://bit.ly/38WtkTl) 📖 Book
+- ✍️ Author of **Deep Learning with Swift for TensorFlow** (2021) 📖 Book. Available on [Amazon](https://amzn.to/3tiwbNQ) / [Apress](https://bit.ly/38WtkTl)
 - 👨🏻‍💻 𝛁Swift
 - 🔨 [GraDirac](https://github.com/gradirac)
 - 🎙 EMINƎM

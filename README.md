@@ -2,14 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=rahulbhalley&color=blueviolet)
 
+Hi! I'm book author, machine intelligence researcher, and iOS developer.
+
 ### About Me 👨🏻‍💻
 
 - ✍️ Author of 📖 **Deep Learning with Swift for TensorFlow** (2021) book. Available on [ Books](https://books.apple.com/us/book/deep-learning-with-swift-for-tensorflow/id1548806893) / [Amazon](https://amzn.to/3tiwbNQ) / [Apress](https://bit.ly/38WtkTl).
 -  Developer & Fanboy
-- 🧠 Researching in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
-- 👨🏻‍💻 𝛁Swift
-- 🔨 [GraDirac](https://github.com/gradirac)
-- 🎙 EMINƎM
+- 🧠 Researcher in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
+- 👨🏻‍💻 Favorite languages are 𝛁Swift and Python 🐍.
+- 🔨 Currently building [GraDirac](https://github.com/gradirac).
+- 🎙 Favorite artist is EMINƎM.
 - 📫 [Contact](mailto:rahulbhalley@icloud.com)
 
 <!--

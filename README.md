@@ -4,7 +4,7 @@
 
 Hi! I'm 📖 book author, 🧠 machine intelligence researcher, and  iOS developer.
 
-### About Me 👨🏻‍💻
+### More About Me 👨🏻‍💻
 
 - ✍️ Author of 📖 **Deep Learning with Swift for TensorFlow** (2021) book. Available on [ Books](https://books.apple.com/us/book/deep-learning-with-swift-for-tensorflow/id1548806893) / [Amazon](https://amzn.to/3tiwbNQ) / [Apress](https://bit.ly/38WtkTl).
 -  Developer & Fanboy

@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rahulbhalley&color=blueviolet)
 
-Hi! I'm book author, machine intelligence researcher, and iOS developer.
+Hi! I'm 📖 book author, 🧠 machine intelligence researcher, and  iOS developer.
 
 ### About Me 👨🏻‍💻
 

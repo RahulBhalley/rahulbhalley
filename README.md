@@ -5,12 +5,12 @@
 ### About Me 👨🏻‍💻
 
 -  Developer & Fanboy
-- 🧠 Researcher in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
+- 🧠 Researching in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
 - ✍️ Author of 📖 **Deep Learning with Swift for TensorFlow** (2021). Available on [ Books](https://books.apple.com/us/book/deep-learning-with-swift-for-tensorflow/id1548806893) / [Amazon](https://amzn.to/3tiwbNQ) / [Apress](https://bit.ly/38WtkTl).
 - 👨🏻‍💻 𝛁Swift
 - 🔨 [GraDirac](https://github.com/gradirac)
 - 🎙 EMINƎM
-- 📫 [Contact](mailto:rahulbhalley@icloud.com) for _any_ machine learning projects or queries regarding my works.
+- 📫 [Contact](mailto:rahulbhalley@icloud.com)
 
 <!--
 **rahulbhalley/rahulbhalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,7 +12,7 @@ Hi! I'm 📖 book author, 🧠 machine intelligence researcher, and  iOS deve
 - 👨🏻‍💻 Favorite languages are 𝛁Swift and Python 🐍.
 - 🔨 Currently building [GraDirac](https://github.com/gradirac).
 - 🎙 Favorite artist is EMINƎM.
-- 📫 [Contact](mailto:rahulbhalley@icloud.com)
+- 📫 [Let's talk!](mailto:rahulbhalley@icloud.com)
 
 <!--
 **rahulbhalley/rahulbhalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

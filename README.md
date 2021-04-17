@@ -6,11 +6,11 @@ Hi! I'm 📖 book author, 🧠 machine intelligence researcher, and  iOS deve
 
 ### More About Me 👨🏻‍💻
 
+- 🔨 Building [Turinium](https://github.com/turinium).
 - ✍️ Author of 📖 **Deep Learning with Swift for TensorFlow** (2021) book. Available on [ Books](https://books.apple.com/us/book/deep-learning-with-swift-for-tensorflow/id1548806893) / [Amazon](https://amzn.to/3tiwbNQ) / [Apress](https://bit.ly/38WtkTl).
 -  Developer & Fanboy
 - 🧠 Researcher in generative modeling, computer vision, natural language processing, and audio/speech processing areas.
 - 👨🏻‍💻 Favorite languages are 𝛁Swift and Python 🐍.
-- 🔨 Currently building [GraDirac](https://github.com/gradirac).
 - 🎙 Favorite artist is EMINƎM.
 - 📫 [Let's talk!](mailto:rahulbhalley@icloud.com)
 

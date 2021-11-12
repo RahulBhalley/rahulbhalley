@@ -10,9 +10,11 @@
 - 👨🏻‍💻 Favorite languages are 𝛁Swift and Python 🐍.
 - [📫](mailto:rahulbhalley@icloud.com)
 
+<!--
 ### Support
 
 [![](buy_me_a_coffee.png)](https://www.buymeacoffee.com/rahulbhalley)
+-->
 
 <!--
 **rahulbhalley/rahulbhalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

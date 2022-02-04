@@ -10,4 +10,4 @@
 - 👨🏻‍💻 Favorite languages are 𝛁Swift and Python 🐍.
 - [📫](mailto:rahulbhalley@icloud.com)
 
-[![Rahul Bhalley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RahulBhalley&theme=material-palenight)](https://github.com/RahulBhalley/github-readme-activity-graph)
+[![Rahul Bhalley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RahulBhalley)](https://github.com/RahulBhalley/github-readme-activity-graph)

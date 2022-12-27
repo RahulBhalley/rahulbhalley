@@ -8,6 +8,6 @@
 -  Developer & Fanboy
 - 🧠 Researcher in generative modeling, computer vision, natural language processing, and music / speech processing areas.
 - 👨🏻‍💻 Favorite languages are 𝛁Swift and Python 🐍.
-- [📫](mailto:rahulbhalley@icloud.com)
+- [📫 Reach out!](mailto:rahulbhalley@icloud.com)
 
-[![Rahul Bhalley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RahulBhalley)](https://github.com/RahulBhalley/github-readme-activity-graph)
+<!-- [![Rahul Bhalley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RahulBhalley)](https://github.com/RahulBhalley/github-readme-activity-graph) -->
